@@ -26,11 +26,11 @@ To use the spam email classifier:
 
 •Install the required dependencies using pip.
 
-•Run the Streamlit app by executing the main Python script.
+•Run the Streamlit app by executing the main Python script. Just open terminal (not python IDE) and type streamlit run [app-name].py.
 
 •Enter a custom email message or select a sample email from the dropdown menu.
 
-•Click the "Classify" button to see the predicted class (spam or ham) for the email.
+•Click the "Classify" button to see the predicted class (spam or not spam) for the email.
 
 # Dependencies
 •Python 3.x
